@@ -1,2 +1,2 @@
-# mysql_portfoilio
+# mysql_portfolio
 Portfolio MySQL Query
